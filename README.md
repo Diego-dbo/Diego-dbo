@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/diego-barbosa-de-oliveira-aa8b4ba7/](https://www.linkedin.com/in/diego-barbosa-de-oliveira-aa8b4ba7/)
 
-- ⚡ Fun fact **🥕&📊: I’ve harvested both data and carrots – who knew my Agronomy degree would lead me to grow insights instead of vegetables!**
+- ⚡ Fun fact **🥕&📊: I’ve harvested both data and carrots – my Agronomy degree led me to grow carrots, and my passion for data has led me to grow insights!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
