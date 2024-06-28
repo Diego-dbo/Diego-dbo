@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **data analyses and visualization.**
 
-- 🌱 I’m currently learning **Python and Power Bi**
+- 🌱 I’m currently learning **Python and Power BI**
 
 - 💬 Ask me about **SQL, Excel, Google Sheets, Big Query and Tableau**
 
